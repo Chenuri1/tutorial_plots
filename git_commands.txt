@@ -1,0 +1,27 @@
+You can first start on github and create a repository
+once repository is created, you can clone it into your local drive:
+    git clone <url>
+
+To see status:
+    -git status
+
+
+To create a branch:
+    - git branch -c <branch name>
+
+To see what branches you have:
+    -git branch
+To change branches:
+    -git checkout <branch name>
+
+To add file and put it in the staging 
+    -git add <name of file>
+    OR
+    -git add .
+
+To commit, the staged files:
+    - git commit -m "<message>"
+
+
+To see the file in github:
+    -git push
